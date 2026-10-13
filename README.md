@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <table width="100%">
 <tr>
@@ -7,11 +7,11 @@
 <h1>arya</h1>
 <h2>Frontend or full-stack engineer</h2>
 <p>PPLG Student of SMK Raden Umar Said Kudus.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<p><strong>Building and sharing work in public</strong></p>
 <p><sub>Based in Kudus, Central Java</sub></p>
 <p><a href="https://github.com/raymndusarya">GitHub</a></p>
 </td>
-<td width="36%" valign="middle" align="center">
+<td width="36%" valign="left" align="left">
 <img src="https://avatars.githubusercontent.com/u/244895602?u=9ee21cbacad18885970d40700aef0f73add7e51a&amp;v=4" width="180" alt="arya GitHub avatar" />
 </td>
 </tr>
