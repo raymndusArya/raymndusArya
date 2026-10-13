@@ -1,114 +1,116 @@
-<div align="left">
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · raymndusarya</sub></p>
-<h1>arya</h1>
-<h2>Software Engineer</h2>
-<p>PPLG Student of SMK Raden Umar Said Kudus.</p>
-<p><sub>Based in Kudus, Central Java</sub></p>
-<p><a href="https://github.com/raymndusarya">GitHub</a></p>
-</td>
-<td width="36%" valign="left" align="left">
-<img src="https://avatars.githubusercontent.com/u/244895602?u=9ee21cbacad18885970d40700aef0f73add7e51a&amp;v=4" width="180" alt="arya GitHub avatar" />
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Arya&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20in%20the%20making&descAlignY=58&descSize=18" width="100%" alt="header" />
+
+<a href="https://github.com/raymndusarya">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineering+Student+%40+SMK+Raden+Umar+Said+Kudus;Web+%26+Mobile+Developer;Laravel+%C2%B7+React+%C2%B7+Flutter;Always+learning%2C+always+building" alt="typing intro" />
+</a>
+
+<br/>
+
+![Location](https://img.shields.io/badge/Location-Kudus%2C%20Central%20Java-0f2027?style=for-the-badge)
+![School](https://img.shields.io/badge/School-SMK%20Raden%20Umar%20Said-2c5364?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=raymndusarya&style=for-the-badge&color=58a6ff&label=PROFILE%20VIEWS)
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
+## About Me
+
+I'm a **PPLG (Software and Game Development)** student at **SMK Raden Umar Said Kudus**, based in Kudus, Central Java.
+I enjoy building web and mobile applications, and I'm currently focused on **Laravel**, **React**, and **Flutter**.
+
+- Currently learning: Flutter (GetX), Laravel, ReactJS
+- Focus: building real projects while committing consistently
+- Open to collaboration, internships, and conversations about software development
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,dart,flutter,css,git,github,gitlab&perline=10" alt="tech stack" />
+
+</div>
+
+| Area | Technologies |
+|---|---|
+| **Web (Backend)** | PHP, Laravel, Blade |
+| **Web (Frontend)** | JavaScript, ReactJS, CSS |
+| **Mobile** | Dart, Flutter, GetX |
+| **Tools** | Git, GitHub, GitLab |
+
+---
+
+## Featured Projects
+
+<table>
 <tr>
-<td width="33%" valign="top"><h3>Languages</h3><p>ReactJS· Blade · PHP · Flutter</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>13 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>53 contributions · 25 active days</p></td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<p><sub>PPLG Student of SMK Raden Umar Said Kudus.</sub></p>
+### [Project-Laravel](https://github.com/raymndusArya/Project-Laravel)
+A web application built with **Laravel** and **Blade**.
 
-<h2>Proof at a glance</h2>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>13</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>53</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=raymndusarya&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244895602%3Fu%3D9ee21cbacad18885970d40700aef0f73add7e51a%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=raymndusarya&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244895602%3Fu%3D9ee21cbacad18885970d40700aef0f73add7e51a%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="arya GitHub proof metrics" />
-</picture>
-</p>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=raymndusarya&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244895602%3Fu%3D9ee21cbacad18885970d40700aef0f73add7e51a%26v%3D4&repos=raymndusarya%2FAPI-Implementations-RecyclerView%2Craymndusarya%2FFirst-React-JS-Project%2Craymndusarya%2FProject-Laravel%2Craymndusarya%2FprojectFlutter-1&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=raymndusarya&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244895602%3Fu%3D9ee21cbacad18885970d40700aef0f73add7e51a%26v%3D4&repos=raymndusarya%2FAPI-Implementations-RecyclerView%2Craymndusarya%2FFirst-React-JS-Project%2Craymndusarya%2FProject-Laravel%2Craymndusarya%2FprojectFlutter-1&v=recruiter-projects-1&mode=dark" width="100%" alt="arya selected projects" />
-</picture>
 </td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/raymndusArya/API-Implementations-RecyclerView">API-Implementations-RecyclerView</a></h3>
-<p>API Implementations di Recycler View</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/raymndusArya/API-Implementations-RecyclerView">Read the repository →</a></p>
+<td width="50%" valign="top">
+
+### [projectFlutter-1](https://github.com/raymndusArya/projectFlutter-1)
+A mobile app learning project built with **Flutter** and **Dart**.
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [First-React-JS-Project](https://github.com/raymndusArya/First-React-JS-Project)
+My first project built with **ReactJS**.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+<td width="50%" valign="top">
+
+### [API-Implementations-RecyclerView](https://github.com/raymndusArya/API-Implementations-RecyclerView)
+An implementation of consuming an **API** and displaying the data with a **RecyclerView**.
+
 </td>
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/raymndusArya/First-React-JS-Project">First-React-JS-Project</a></h3><p>My first ReactJS Project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/raymndusArya/Project-Laravel">Project-Laravel</a></h3><p>A selected public project.</p><p><sub>Blade · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/raymndusArya/projectFlutter-1">projectFlutter-1</a></h3><p>A selected public project.</p><p><sub>Dart · ⭐ 0</sub></p></td>
-</tr>
-</table>
+---
 
-<h2>Technical toolkit</h2>
+## GitHub Stats
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=raymndusarya&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244895602%3Fu%3D9ee21cbacad18885970d40700aef0f73add7e51a%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=raymndusarya&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244895602%3Fu%3D9ee21cbacad18885970d40700aef0f73add7e51a%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="arya technology stack" />
-</picture>
-</p>
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Blade</strong><br /><sub>28% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>15% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>13% of public code</sub></td>
-<td width="20%" align="center"><strong>PHP</strong><br /><sub>12% of public code</sub></td>
-<td width="20%" align="center"><strong>Dart</strong><br /><sub>7% of public code</sub></td>
-</tr>
-</table>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raymndusarya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymndusarya&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
-<h2>Consistency signal</h2>
+<br/>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=raymndusarya&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244895602%3Fu%3D9ee21cbacad18885970d40700aef0f73add7e51a%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=raymndusarya&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244895602%3Fu%3D9ee21cbacad18885970d40700aef0f73add7e51a%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="arya contribution activity" />
-</picture>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raymndusarya&theme=tokyonight&hide_border=true" alt="streak" />
 
-<hr />
+</div>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/raymndusarya">GitHub</a></td>
-</tr>
-</table>
+---
 
-<p align="center"><sub>arya · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-raymndusarya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raymndusarya)
+
+*Open to thoughtful teams, ambitious products, and useful engineering work.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
