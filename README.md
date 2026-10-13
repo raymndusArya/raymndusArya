@@ -108,6 +108,12 @@ An implementation of consuming an **API** and displaying the data with a **Recyc
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-raymndusarya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raymndusarya)
+[![GitLab](https://img.shields.io/badge/GitLab-raymndusArya-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/raymndusArya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raymundus%20Arya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymundus-arya-66484a427/)
+[![Instagram](https://img.shields.io/badge/Instagram-raymndus__arya-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raymndus_arya/)
+[![Threads](https://img.shields.io/badge/Threads-@raymndus__arya-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@raymndus_arya)
+[![500px](https://img.shields.io/badge/500px-capturedby__arya-0099E5?style=for-the-badge&logo=500px&logoColor=white)](https://500px.com/p/capturedby_arya)
+[![Behance](https://img.shields.io/badge/Behance-raymundaryasat-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/raymundaryasat)
 
 *Open to thoughtful teams, ambitious products, and useful engineering work.*
 
