@@ -5,9 +5,8 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · raymndusarya</sub></p>
 <h1>arya</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Software Engineer</h2>
 <p>PPLG Student of SMK Raden Umar Said Kudus.</p>
-<p><strong>Building and sharing work in public</strong></p>
 <p><sub>Based in Kudus, Central Java</sub></p>
 <p><a href="https://github.com/raymndusarya">GitHub</a></p>
 </td>
@@ -22,7 +21,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Blade · JavaScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Languages</h3><p>ReactJS· Blade · PHP · Flutter</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>13 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>53 contributions · 25 active days</p></td>
 </tr>
