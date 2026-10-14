@@ -1,122 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Arya&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20in%20the%20making&descAlignY=58&descSize=18" width="100%" alt="header" />
-
-<a href="https://github.com/raymndusarya">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineering+Student+%40+SMK+Raden+Umar+Said+Kudus;Web+%26+Mobile+Developer;Laravel+%C2%B7+React+%C2%B7+Flutter;Always+learning%2C+always+building" alt="typing intro" />
-</a>
+<img src="assets/banner.svg" width="100%" alt="Arya" />
 
 <br/>
 
-![Location](https://img.shields.io/badge/Location-Kudus%2C%20Central%20Java-0f2027?style=for-the-badge)
-![School](https://img.shields.io/badge/School-SMK%20Raden%20Umar%20Said-2c5364?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=raymndusarya&style=for-the-badge&color=58a6ff&label=PROFILE%20VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-raymndusarya-161b22?style=flat-square&logo=github)](https://github.com/raymndusarya)
+[![GitLab](https://img.shields.io/badge/GitLab-raymndusArya-161b22?style=flat-square&logo=gitlab)](https://gitlab.com/raymndusArya)
+![Location](https://img.shields.io/badge/Based%20in-Kudus%2C%20Indonesia-203a43?style=flat-square)
 
 </div>
 
 ---
 
-## About Me
+## `01` About Me
 
-I'm a **PPLG (Software and Game Development)** student at **SMK Raden Umar Said Kudus**, based in Kudus, Central Java.
-I enjoy building web and mobile applications, and I'm currently focused on **Laravel**, **React**, and **Flutter**.
+I'm Arya, a **Software and Game Development (PPLG)** student at SMK Raden Umar Said Kudus, Indonesia.
 
-- Currently learning: Flutter (GetX), Laravel, ReactJS
-- Focus: building real projects while committing consistently
-- Open to collaboration, internships, and conversations about software development
+I enjoy building web and mobile applications, exploring new technologies, and turning ideas into working projects. Currently, I'm focusing on **Laravel, React, and Flutter** while improving my fundamentals through hands-on development.
 
----
+- Currently learning **Flutter, Laravel, and React**
+- Interested in **mobile app and UI/UX**
+- Learning through experiments, side projects, and problem-solving
+- Open to collaboration and opportunities to grow as a developer
 
-## Tech Stack
+## `02` Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,react,dart,flutter,css,git,github,gitlab&perline=10" alt="tech stack" />
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,dart,flutter,html,css&perline=8" alt="Languages and frameworks" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,figma&perline=6" alt="Development tools" />
 
 </div>
 
-| Area | Technologies |
-|---|---|
-| **Web (Backend)** | PHP, Laravel, Blade |
-| **Web (Frontend)** | JavaScript, ReactJS, CSS |
-| **Mobile** | Dart, Flutter, GetX |
-| **Tools** | Git, GitHub, GitLab |
-
----
-
-## Featured Projects
+## `03` Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Project-Laravel](https://github.com/raymndusArya/Project-Laravel)
-A web application built with **Laravel** and **Blade**.
+### [Project Laravel](https://github.com/raymndusArya/Project-Laravel)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+Web development project built with Laravel and Blade.
+
+`PHP` `Laravel` `Blade`
 
 </td>
 <td width="50%" valign="top">
 
-### [projectFlutter-1](https://github.com/raymndusArya/projectFlutter-1)
-A mobile app learning project built with **Flutter** and **Dart**.
+### [Flutter Projects](https://github.com/raymndusArya/projectFlutter-1)
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+A hands-on project for learning Flutter and Dart application development.
+
+`Flutter` `Dart`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [First-React-JS-Project](https://github.com/raymndusArya/First-React-JS-Project)
-My first project built with **ReactJS**.
+### [First React Project](https://github.com/raymndusArya/First-React-JS-Project)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+My first step into building web interfaces with React and JavaScript.
+
+`React` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### [API-Implementations-RecyclerView](https://github.com/raymndusArya/API-Implementations-RecyclerView)
-An implementation of consuming an **API** and displaying the data with a **RecyclerView**.
+### [API & RecyclerView](https://github.com/raymndusArya/API-Implementations-RecyclerView)
+
+An Android project exploring API integration and displaying data using RecyclerView.
+
+`Android` `API` `RecyclerView`
 
 </td>
 </tr>
 </table>
 
----
-
-## GitHub Stats
+## `04` GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raymndusarya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymndusarya&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=raymndusarya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymndusarya&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raymndusarya&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raymndusarya&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="70%" alt="GitHub contribution streak" />
+
+</div>
+
+## `05` Beyond the Code
+
+When I'm not coding, I enjoy exploring **photography, visual design, and music**. I like learning how different creative disciplines approach problems and using those ideas in my own projects.
+
+## `06` Find Me Elsewhere
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raymndusarya)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/raymndusArya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymundus-arya-66484a427/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raymndus_arya/)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@raymndus_arya)
+[![500px](https://img.shields.io/badge/500px-0099E5?style=for-the-badge&logo=500px&logoColor=white)](https://500px.com/p/capturedby_arya)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/raymundaryasat)
 
 </div>
 
 ---
-
-## Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-raymndusarya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raymndusarya)
-[![GitLab](https://img.shields.io/badge/GitLab-raymndusArya-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/raymndusArya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raymundus%20Arya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymundus-arya-66484a427/)
-[![Instagram](https://img.shields.io/badge/Instagram-raymndus__arya-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raymndus_arya/)
-[![Threads](https://img.shields.io/badge/Threads-@raymndus__arya-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@raymndus_arya)
-[![500px](https://img.shields.io/badge/500px-capturedby__arya-0099E5?style=for-the-badge&logo=500px&logoColor=white)](https://500px.com/p/capturedby_arya)
-[![Behance](https://img.shields.io/badge/Behance-raymundaryasat-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/raymundaryasat)
-
-*Open to thoughtful teams, ambitious products, and useful engineering work.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
-
-</div>
